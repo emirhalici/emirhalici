@@ -1,6 +1,5 @@
 ### Hi there 👋
-- I'm currently a computer engineering student.
-- I'm learning Flutter at the moment.
+- I'm currently a flutter developer && computer engineering student.
 - I have experimented with Native Android Dev in Java and Winforms Dev in C# in the past as a beginner.
 - Find me at Linkedin with the same name
 <!--
