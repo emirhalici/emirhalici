@@ -1,7 +1,17 @@
 ### Hi there 👋
-- I'm currently a flutter developer && computer engineering student.
-- I have experimented with Native Android Dev in Java and Winforms Dev in C# in the past as a beginner.
-- Find me at Linkedin with the same name
+I'm a flutter developer, and [computer engineering student][1] living in Turkey. I'm currently freelancing at [Upwork][2].
+
+[Personal website][3] <br/>
+[Curriculum vitae][4] <br/>
+
+Reach me at [emirhalici1@gmail.com][5].
+
+[1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
+[2]: <https://www.upwork.com/> "Upwork"
+[3]: <https://emirhalici.com/> "Personal website"
+[4]: <https://raw.githubusercontent.com/emirhalici/hugo-personal-website/main/emirhalici_cv_english.pdf> "CV"
+[5]: <mailto:emir.halici1@gmail.com> "Email"
+
 <!--
 **emirhalici/emirhalici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
