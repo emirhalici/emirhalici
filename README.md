@@ -9,7 +9,7 @@ Reach me at [emirhalici1@gmail.com][5].
 [1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
 [2]: <https://www.upwork.com/> "Upwork"
 [3]: <https://emirhalici.com/> "Personal website"
-[4]: <https://raw.githubusercontent.com/emirhalici/hugo-personal-website/main/emirhalici_cv_english.pdf> "CV"
+[4]: <https://github.com/emirhalici/emirhalici/files/10391708/resume.pdf> "CV"
 [5]: <mailto:emir.halici1@gmail.com> "Email"
 
 <!--
