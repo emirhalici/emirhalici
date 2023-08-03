@@ -2,15 +2,15 @@
 I'm a flutter developer, and [computer engineering student][1] living in Turkey. I'm currently freelancing at [Upwork][2].
 
 [Personal website][3] <br/>
-[Curriculum vitae][4] <br/>
+[Resume][4] <br/>
 
-Reach me at [emirhalici1@gmail.com][5].
+Reach me at [hi@emirhalici.com][5].
 
 [1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
 [2]: <https://www.upwork.com/> "Upwork"
 [3]: <https://emirhalici.com/> "Personal website"
-[4]: <https://github.com/emirhalici/emirhalici/files/10391708/resume.pdf> "CV"
-[5]: <mailto:emir.halici1@gmail.com> "Email"
+[4]: <https://github.com/emirhalici/emirhalici/files/12245733/Emir-Halici-English.08-2023-Obfuscated.pdf> "Resume"
+[5]: <mailto:hi@emirhalici.com> "Email"
 
 <!--
 **emirhalici/emirhalici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
