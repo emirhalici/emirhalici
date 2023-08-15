@@ -1,10 +1,11 @@
 ### Hi there 👋
-I'm a flutter developer, and [computer engineering student][1] living in Turkey. I'm currently freelancing at [Upwork][2].
+I'm a software developer, and [computer engineering student][1] living in Turkey. 
 
-[Personal website][3] <br/>
-[Resume][4] <br/>
-
-Reach me at [hi@emirhalici.com][5].
+- 🔭 I’m currently working on mobile apps with Flutter!
+- 👯 I'm currently freelancing at [Upwork][2].
+- 📫 How to reach me: [hi@emirhalici.com][5]
+- 📄 Check out my [resume][4]
+- 🌐 Check out my [personal website][3]
 
 [1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
 [2]: <https://www.upwork.com/> "Upwork"
