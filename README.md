@@ -10,8 +10,9 @@ I'm a software developer, and [computer engineering student][1] living in Turkey
 [1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
 [2]: <https://www.upwork.com/> "Upwork"
 [3]: <https://emirhalici.com/> "Personal website"
-[4]: <https://github.com/emirhalici/emirhalici/files/12245733/Emir-Halici-English.08-2023-Obfuscated.pdf> "Resume"
+[4]: <https://github.com/emirhalici/emirhalici/files/12363483/Emir.Halici.English.08-2023.Obfuscated.pdf> "Resume"
 [5]: <mailto:hi@emirhalici.com> "Email"
+
 
 <!--
 **emirhalici/emirhalici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
