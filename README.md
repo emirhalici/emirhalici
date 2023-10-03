@@ -6,15 +6,15 @@ I'm a software developer, and [computer engineering student][1] living in Turkey
 - 🚀 I'm currently building [Dart Date Formatter][6] as a side project
 - 🌱 I’m playing around with: React, Python, and Lambda Functions
 - ⚡️ Check out [React Rendering Playground][7] where I dive into how hooks and rendering with state work in React
-- 📫 How to reach me: [hi@emirhalici.com][5]
+- 📫 How to reach me: [hi@emir.bio][5]
 - 📄 Check out my [resume][4]
 - 🌐 Check out my [personal website][3]
 
 [1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
 [2]: <https://www.upwork.com/> "Upwork"
-[3]: <https://emirhalici.com/> "Personal website"
+[3]: <https://emir.bio/> "Personal website"
 [4]: <https://github.com/emirhalici/emirhalici/files/12363483/Emir.Halici.English.08-2023.Obfuscated.pdf> "Resume"
-[5]: <mailto:hi@emirhalici.com> "Email"
+[5]: <mailto:hi@emir.bio> "Email"
 [6]: <https://github.com/emirhalici/dartdateformatter> "Dart Date Formatter"
 [7]: <https://github.com/emirhalici/react-rendering-playground> "React Rendering Playground"
 
