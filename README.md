@@ -3,9 +3,7 @@ I'm a software developer, and [computer engineering student][1] living in Turkey
 
 - 🔭 I’m working on mobile apps with Flutter!
 - 👯 I'm currently freelancing at [Upwork][2].
-- 🚀 I'm currently building [Dart Date Formatter][6] as a side project
-- 🌱 I’m playing around with: React, Python, and Lambda Functions
-- ⚡️ Check out [React Rendering Playground][7] where I dive into how hooks and rendering with state work in React
+- 🚀 I've recently worked on [Dart Date Formatter][6] as a side project
 - 📫 How to reach me: [hi@emir.bio][5]
 - 📄 Check out my [resume][4]
 - 🌐 Check out my [personal website][3]
