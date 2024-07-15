@@ -1,21 +1,21 @@
 ### Hi there 👋
-I'm a software developer, and [computer engineering student][1] living in Turkey. 
+I'm a computer engineer based in Türkiye. 
 
 - 🔭 I’m working on mobile apps with Flutter!
-- 👯 I'm currently freelancing at [Upwork][2].
-- 🚀 I've recently worked on [Dart Date Formatter][6] as a side project
-- 🚀 Check out [Arithmatik][6], my most recent app
-- 📫 How to reach me: [dev@emir.bio][5]
-- 📄 Check out my [resume][4]
+- 📫 How to reach me: [dev@emir.bio][1]
+- 📄 Check out my [resume][2]
 - 🌐 Check out my [personal website][3]
+- 🚀 I recently worked on:
+  - [Arithmatik][4], my most recent app
+  - [Dart Date Formatter][5]
+  - [React Rendering Playground][6]
 
-[1]: <https://www.linkedin.com/school/ankara-university/> "Ankara University"
-[2]: <https://www.upwork.com/> "Upwork"
+[1]: <mailto:hi@emir.bio> "Email"
+[2]: <https://github.com/emirhalici/emirhalici/files/12363483/Emir.Halici.English.08-2023.Obfuscated.pdf> "Resume"
 [3]: <https://www.emir.bio/> "Personal website"
-[4]: <https://github.com/emirhalici/emirhalici/files/12363483/Emir.Halici.English.08-2023.Obfuscated.pdf> "Resume"
-[5]: <mailto:hi@emir.bio> "Email"
-[6]: <https://arithmatik.emir.bio/> "Arithmatik"
-[7]: <https://github.com/emirhalici/react-rendering-playground> "React Rendering Playground"
+[4]: <https://arithmatik.emir.bio/> "Arithmatik"
+[5]: <https://dartdateformatter.emir.bio/> "Dart Date Formatter"
+[6]: <https://github.com/emirhalici/react-rendering-playground> "React Rendering Playground"
 
 
 <!--
