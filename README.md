@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a computer engineer based in Türkiye. 
 
-- 🔭 I’m working on Flutter mobile apps and AWS serverless, currently at [GemstoneLights][0]
+- 🔭 I’m working on Flutter mobile apps and AWS, currently at [GemstoneLights][0]
 - 📫 How to reach me: [dev@emir.bio][1]
 - 📄 Check out my [resume][2]
 - 🌐 Check out my [personal website][3]
